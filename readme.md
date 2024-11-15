@@ -1,8 +1,10 @@
-
-https://github.com/user-attachments/assets/64916662-c4ab-40de-bfdf-40c7dc70af0b
 # Decentralized Escrow Application
 
 This is an Escrow Dapp built with [Hardhat](https://hardhat.org/).
+
+## Project Preview
+https://github.com/user-attachments/assets/64916662-c4ab-40de-bfdf-40c7dc70af0b
+
 
 ## Changes to Alchemy University project
 
